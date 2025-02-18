@@ -1,3 +1,4 @@
+role,NetID,LastName,FirstName
 boss,giadla,Giadla,Matthew
 employee,9084111229,Dietrich,Jonathan
 employee,thadur,Thadur,Abhiraam
